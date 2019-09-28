@@ -4,7 +4,7 @@
 
 *AWS Cloud Development Kit* is an *open source software* development framework to model and provision your cloud application resources using familiar programming languages.
 
-This repository is a set of examples that we have collected and battle-tested during our work for various clients and project domains. Based on those experiences, @afronski created a talk titled *AWS CDK: Your Infrastructure is Code!* about that we finally arrive to a point when there is no longer need for creating a ton of *YAML* files or code in *DSL* that are immitating real programming languages.
+This repository is a set of examples that we have collected and battle-tested during our work for various clients and project domains. Based on those experiences, [@afronski](https://github.com/afronski) created a talk titled *AWS CDK: Your Infrastructure is Code!* about that we finally arrive to a point when there is no longer need for creating a ton of *YAML* files or code in *DSL* that are immitating real programming languages.
 
 ## Examples
 
