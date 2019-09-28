@@ -18,8 +18,8 @@ This repository is a set of examples that we have collected and battle-tested du
 
 Repository is a foundation for the lectures - I have performed it in following places:
 
-- [4Developers - Cracow](https://4developers.org.pl/lecture_krakow_2019/#id=55314) (*Cracow*, *Poland*).
-- [4Developers - Katowice](https://4developers.org.pl/lecture_katowice_2019/#id=55597) (*Cracow*, *Poland*).
+- [4Developers - Cracow (01.10.2019)](https://4developers.org.pl/lecture_krakow_2019/#id=55314) (*Cracow*, *Poland*).
+- [4Developers - Katowice (21.10.2019)](https://4developers.org.pl/lecture_katowice_2019/#id=55597) (*Cracow*, *Poland*).
 
 ## Prequisites
 
