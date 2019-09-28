@@ -1,0 +1,9 @@
+# Ignoring compiled assets, but not the debug ones:
+*.js
+!*.d.ts
+
+# CDK asset staging directory:
+.cdk.staging/
+
+# CDK output:
+cdk.out/

@@ -1,0 +1,5 @@
+# Python virtualenv directory.
+.env/
+
+# Node.js dependencies.
+node_modules/

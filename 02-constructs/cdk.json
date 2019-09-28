@@ -1,0 +1,7 @@
+{
+    "app": "python3 app.py",
+    "context": {
+        "participants_count": 2,
+        "password": "THIS_IS_A_DUMMY_PASSWORD_THAT_NEEDS_TO_BE_CHANGED"
+    }
+}

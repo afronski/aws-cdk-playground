@@ -1,0 +1,12 @@
+# Ignoring compiled assets:
+*.js
+*.d.ts
+
+# But Jest configuration should be commited:
+!jest.config.js
+
+# CDK asset staging directory:
+.cdk.staging/
+
+# CDK output:
+cdk.out/

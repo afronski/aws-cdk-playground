@@ -1,0 +1,9 @@
+# Python cache:
+__pycache__/
+.pytest_cache/
+
+# Egg information:
+serverless_stack.egg-info/
+
+# CDK output:
+cdk.out/

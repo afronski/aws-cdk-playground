@@ -1,0 +1,9 @@
+# Python cache:
+__pycache__/
+.pytest_cache/
+
+# Egg information:
+workshop_stack.egg-info/
+
+# CDK output:
+cdk.out/
