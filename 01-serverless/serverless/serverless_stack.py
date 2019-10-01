@@ -4,6 +4,7 @@ from aws_cdk import (
     aws_lambda as _lambda,
 )
 
+
 class ServerlessStack(core.Stack):
 
     def __init__(self, scope: core.Construct, id: str, **kwargs) -> None:
@@ -14,6 +15,7 @@ class ServerlessStack(core.Stack):
             runtime=_lambda.Runtime.PYTHON_3_7,
             code=_lambda.Code.asset('lambda'),
             handler='hello.handler',
+            # dead_letter_queue_enabled = True,
         )
 
         apigw.LambdaRestApi(

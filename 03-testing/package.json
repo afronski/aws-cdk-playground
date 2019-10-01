@@ -7,7 +7,7 @@
     "scripts": {
         "build": "npx tsc",
         "watch": "npx tsc -w",
-        "test": "npx jest",
+        "test": "npm run build && npx jest",
         "cdk": "cdk",
         "snapshot": "npm run test -- -u"
     },
